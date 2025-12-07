@@ -1,0 +1,3 @@
+Neptune Cash NPT Miner v1.9 for HIVEOS
+
+will be updated....
