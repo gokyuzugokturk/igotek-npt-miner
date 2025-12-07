@@ -56,7 +56,7 @@ BENCHMARKS
 You can set overclock settings depends on your graphic card.   
 Just try this ones as start and find the proper settings for your graphic cards.
 
-RTX3090 > 9.05MH/s @ 300W  
+RTX3090 > 9.20MH/s @ 300W  
 Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
 ![RTX3090](https://github.com/gokyuzugokturk/igotek-npt-miner/blob/main/img/RTX3090.png)
 
