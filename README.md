@@ -55,6 +55,15 @@ BENCHMARKS
 
 You can set overclock settings depends on your graphic card.   
 Just try this ones as start and find the proper settings for your graphic cards.
+More Power = Higher Hashrate
+
+RTX5090 > 29.90MH/s @ 450W  
+Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
+![RTX5090](https://github.com/gokyuzugokturk/igotek-npt-miner/blob/main/img/RTX5090.png)
+
+RTX4090 > 19.75MH/s @ 450W  
+Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
+![RTX4090](https://github.com/gokyuzugokturk/igotek-npt-miner/blob/main/img/RTX4090.png)
 
 RTX3090 > 9.20MH/s @ 300W  
 Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
