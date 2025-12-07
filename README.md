@@ -44,10 +44,10 @@ Pool URL: stratum+ssl://eu.poolhub.io:4444
 Extra config arguments: --neptunewallet YOUR-WALLET-ADDRESS
 
 This miner is for Neptune Cash NPT !  
-Use XTN wallet address. Neptune Privacy (XTN) 
+Use NPT wallet address. Neptune Cash (NPT) 
 
 This miner is not for Neptune Privacy XTN !  
-Dont use NPT wallet address. Neptune Cash (NPT) 
+Dont use XTN wallet address. Neptune Privacy (XTN) 
 
 *****
 
