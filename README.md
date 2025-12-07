@@ -12,7 +12,7 @@ RTX 4090
 RTX 4090  
 RTX 3090 
 
-Video Tutorial: https://www.youtube.com/watch?v=eqbNUFV8URQ
+Video Tutorial: https://youtu.be/eqbNUFV8URQ
 
 *****
 
