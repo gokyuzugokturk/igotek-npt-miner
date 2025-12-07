@@ -17,7 +17,7 @@ Video Tutorial: will be updated soon...
 *****
 
 HIVEOS: WALLET CREATION  
-![wallet](https://github.com/gokyuzugokturk/igotek-npt/blob/main/img/wallet.png)
+![wallet](https://github.com/gokyuzugokturk/igotek-npt-miner/blob/main/img/wallet.png)
 
 Dont get wallet address from https://safetrade.com ! 
 Get wallet address from https://github.com/VxBlocks/vxb_neptune_wallet/releases/tag/v2.1.1  
@@ -28,12 +28,12 @@ Set wallet address at the flight sheet !
 *****
 
 HIVEOS: FLIGHT SHEET  
-![flighsheet_01](https://github.com/gokyuzugokturk/igotek-npt/blob/main/img/flighsheet_01.png)
+![flighsheet_01](https://github.com/gokyuzugokturk/igotek-npt-miner/blob/main/img/flighsheet_01.png)
 
 *****
 
 HIVEOS: FLIGHT SHEET  
-![flighsheet_02](https://github.com/gokyuzugokturk/igotek-npt/blob/main/img/flighsheet_02.png)
+![flighsheet_02](https://github.com/gokyuzugokturk/igotek-npt-miner/blob/main/img/flighsheet_02.png)
 
 Wallet and worker template: %WAL%  
 
@@ -58,7 +58,7 @@ Just try this ones as start and find the proper settings for your graphic cards.
 
 RTX3090 > 9.05MH/s @ 300W  
 Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
-![RTX3090](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/004.png)
+![RTX3090](https://github.com/gokyuzugokturk/igotek-npt-miner/blob/main/img/RTX3090.png)
 
 *****
 
