@@ -1,16 +1,16 @@
 Neptune Cash NPT Miner v1.9 for HIVEOS
 
 SUPPORTED GRAPHIC CARDS  
+A40 
 L40S  
-RTX 6000 ADA  
-A40  
 RTX 6000  
-RTX A5000 @ 220W ~6.50 MH/s
-RTX 5090 @ 580W ~39 MH/s  
-RTX 5090 @ 450W ~30 MH/s  
-RTX 4090 @ 450W ~21 MH/s  
-RTX 4090 @ 280W ~16 MH/s  
-RTX 3090 @ 300W ~9 MH/s
+RTX 6000 ADA  
+RTX A5000  
+RTX 5090  
+RTX 5090  
+RTX 4090 
+RTX 4090  
+RTX 3090 
 
 Video Tutorial: will be updated soon...
 
@@ -60,14 +60,20 @@ More Power = Higher Hashrate
 RTX5090 > 29.90MH/s @ 450W  
 Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
 ![RTX5090](https://github.com/gokyuzugokturk/igotek-npt-miner/blob/main/img/RTX5090.png)
+RTX 5090 @ 580W ~39 MH/s   
+RTX 5090 @ 450W ~30 MH/s 
 
 RTX4090 > 19.75MH/s @ 450W  
 Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
 ![RTX4090](https://github.com/gokyuzugokturk/igotek-npt-miner/blob/main/img/RTX4090.png)
+RTX 4090 @ 450W ~21 MH/s   
+RTX 4090 @ 280W ~16 MH/s  
 
 RTX3090 > 9.20MH/s @ 300W  
 Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
 ![RTX3090](https://github.com/gokyuzugokturk/igotek-npt-miner/blob/main/img/RTX3090.png)
+
+RTX A5000 @ 220W ~6.50 MH/s  
 
 *****
 
