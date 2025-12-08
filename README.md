@@ -1,3 +1,5 @@
+![NPT](https://github.com/gokyuzugokturk/igotek-npt-miner/blob/main/img/image.png)
+
 Neptune Cash NPT Miner v1.9 for HIVEOS
 
 SUPPORTED GRAPHIC CARDS  
